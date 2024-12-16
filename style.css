@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+}
+
+h1,
+p {
+  font-family: Libre Baskerville;
+  color: white;
+  text-transform: uppercase;
+}
+
+img {
+  border: 5px solid white;
+  margin-top: 50px;
+}
+
+#meme {
+  background-color: black;
+}
